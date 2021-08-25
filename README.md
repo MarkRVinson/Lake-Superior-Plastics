@@ -1,4 +1,4 @@
-# Superior-Plastic
+# Lake Superior Surface Plastic Pollution
 Data, R scripts, and Plots of Lake Superior surface water plastic pollution
 
 ![Cox2021_LSPlastic](https://user-images.githubusercontent.com/58261765/130830704-0956fa8a-ebcd-4ae7-a37f-61e3bb845ebe.PNG)
